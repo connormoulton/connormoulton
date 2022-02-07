@@ -1,3 +1,3 @@
-- connormoulton.eth
+connormoulton.eth
 
-- c@connormoulton.com
+c@connormoulton.com
